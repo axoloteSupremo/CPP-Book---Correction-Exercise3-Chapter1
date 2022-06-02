@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std; 
+int main() {
+    // Write C++ code here
+  cout << endl << "If this text,"
+       << endl << "appears on your display, "
+       << endl << "you can pat yourself on" 
+       << endl << "the back!";
+    return 0;
